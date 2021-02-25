@@ -4,7 +4,7 @@
 
 My notebooks to DataCamp projects.
 ## SQL
-***
+
 
 
 | Project | Description |
